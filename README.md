@@ -1,3 +1,3 @@
 # paperock
 
-lolololololololo
+Scissors paper rock Best of 5
