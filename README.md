@@ -1,3 +1,1 @@
-# paperock
-
-Scissors paper rock Best of 5
+Rock Paper Scissors mini browser game. Currently played with prompts & alert for returns as oppossed to console log. UI coming soon.
